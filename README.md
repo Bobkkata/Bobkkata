@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Borislav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python OOP**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **bn74122@gmail.com**
 
