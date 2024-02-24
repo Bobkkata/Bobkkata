@@ -13,3 +13,4 @@
 | Programming Basics - September 2022    | [Link](https://softuni.bg/certificates/details/144767/8445da61) |
 | Programming Fundamentals with Python    | [Link](https://softuni.bg/certificates/details/166453/abd7bfaf) |
 | Python Advanced - January 2024    | [Link](https://softuni.bg/certificates/details/203726/a1eaaa96) |
+| Next certificate is Python OOP |
